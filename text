@@ -1,0 +1,13 @@
+1.object in python represent real-world enities.
+2.the init method is a special method used to initialize the object .
+3.cell is a reference to the current instance of a class.
+4.self is a reference to the current instance of a class.it is used to interact with instance-specifies.self is a parameter. 
+5.class in a python are like blueprint for creating object.
+6.Encapsulation 
+  it is a concept that restricts access to certain program of a object.it is used by double underscore prefix
+7.Inheritance
+ inheritance allows you to creat new classes that inherit properties and methods from existing classes.
+8.Function is a reusable block of code that performsspecifics task.functions are the fundemental 
+scope of variable:variable can have different scopes like
+local scope:variable define a within a function are local to that function and can only be accesed within that function.
+non-local scope: if you want to modify a global variable from within a function you can you the global keyboard to indicate 
